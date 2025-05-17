@@ -18,7 +18,7 @@
     "@docusaurus/theme-search-algolia": "^3.7.0",
     "@mdx-js/react": "^3.0.1",
     "@monaco-editor/react": "^4.4.6",
-    "@stoplight/elements": "^7.5.8",
+    "@stoplight/elements": "^9.0.1",
     "@svgr/webpack": "^6.0.0",
     "axios": "^1.7.9",
     "canvas-confetti": "^1.9.2",
