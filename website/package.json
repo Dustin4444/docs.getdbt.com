@@ -15,12 +15,12 @@
   },
   "dependencies": {
     "@datadog/browser-rum": "^6.27.1",
-    "@docusaurus/core": "^3.7.0",
+    "@docusaurus/core": "^3.10.2",
     "@docusaurus/faster": "^3.7.0",
-    "@docusaurus/plugin-ideal-image": "^3.7.0",
-    "@docusaurus/plugin-vercel-analytics": "^3.7.0",
-    "@docusaurus/preset-classic": "^3.7.0",
-    "@docusaurus/theme-search-algolia": "^3.7.0",
+    "@docusaurus/plugin-ideal-image": "^3.10.2",
+    "@docusaurus/plugin-vercel-analytics": "^3.10.2",
+    "@docusaurus/preset-classic": "^3.10.2",
+    "@docusaurus/theme-search-algolia": "^3.10.2",
     "@mdx-js/react": "^3.0.1",
     "@monaco-editor/react": "^4.4.6",
     "@signalwire/docusaurus-plugin-llms-txt": "2.0.0-alpha.2",
@@ -91,7 +91,7 @@
     "svg-inline-loader": "^0.8.2",
     "tty-browserify": "0.0.1",
     "webpack": "^5.75.0",
-    "webpack-dev-server": "^4.11.1"
+    "webpack-dev-server": "^6.0.0"
   },
   "jest": {
     "transform": {
